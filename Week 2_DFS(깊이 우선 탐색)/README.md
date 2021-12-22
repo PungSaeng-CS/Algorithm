@@ -13,7 +13,7 @@
 <br>
 2주차 문제는 아래에 해당하는 문제를 풀어서 제출하면 됩니다
 
-바이러스 [2606] :: https://www.acmicpc.net/problem/2606
+바이러스 [2606] :: https://www.acmicpc.net/problem/2606 <br>
 점프왕 쩰리 (Small) [16173] :: https://www.acmicpc.net/problem/16173
 
 
