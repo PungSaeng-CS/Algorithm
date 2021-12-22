@@ -6,7 +6,7 @@
 
 다음주는 BFS 문제가 과제로 출제가 될 예정이니 같은 공부하시면 더 좋을 것 이라고 생각합니다.
 
-기본 개념: https://itholic.github.io/python-bfs-dfs/
+기본 개념: https://itholic.github.io/python-bfs-dfs/ <br>
 예시 영상: https://www.youtube.com/watch?v=e7_H8SLZlHY
 <br>
 <hr>
